@@ -1,0 +1,45 @@
+FUNÇÕES DO SISTEMA
+Cadastro de Clientes, 
+Gerador de mensalidades, 
+Emissão de carnê, 
+Impressão e personalização de Contrato, 
+Impressões de Recibos mensais em dois modelos e com opção de 1 ou 2 vias, 
+Gerenciamento de caixa com outras Receitas alem das mnesalidades e despesas, 
+Impressão de recibos livres ou de outros serviços, 
+Aniversariantes do mês com lista constando telefones ou mala direta para emissão de cartões com logo da empresa podendo emitir também cartões de natal ou outras datas comemorativas, 
+mini folha de pagamento para controle interno, 
+Envelope de endereçamento.
+ 
+RELATORIOS
+Recibos em Serie filtrando mês e ano
+Recibos em serie personalizados
+Listagem geral de clientes
+REsumo de Inadimplentes
+Recibos baixados
+
+O sistema pode ser usado em:
+Profissionais Contábeis
+Qualquer loja que necessite emitir recibos bastando apenas remover o módulo contabil:
+Armazéns,
+Bazares,
+Brechós,
+Confecções,
+Lojas de Calçados, Celular, Informática, Pneus, Perfumarias, Roupas, Tintas,
+Materiais para Construção,
+Mercadinhos,
+Moto Peças,
+Óticas,
+Padarias,
+Papelarias,
+Etc.
+
+O sistema funciona em redes? Sim, em até 255 maquinas simultaneamente
+Faz emissao de cupom não fiscal ou algum outro compravante de pagamento? Sim, recibos e listagens em geral.
+Como funciona o suport? Suporte via skype, WhatsApp, e-mail ou face de segunda a sexta das 8:00 as 17:00 e sabado das 9:00 as 13:00 "SUPORT GRATIS POR UM MES"
+Este sistema tem que pagar mensalidades? Não tem mensalidades, so paga o valor do anuncio e o sistema e seu.
+Posso instalar em mais de uma maquina? Pode, so que você vai receber o programa personalizado com os dados da sua empresa, telefone e endereço.
+Caso eu precise formatar minha maquina, tenho que comprar o sistema novamente? Nao, basta fazer backup e utilizar o instalador e você podera reinstalar o sistema a qualquer hora e quantas vezes quizer.
+Mesmo tendo o instalador preciso de algum codigo ou numero de serie para reinstalar o sistema? Nao e necessario nenhum tipo de codigo, o proprio cliente consegue fazer a instalação ou reinstalação sem precisar a recorrer a terceiros.
+A equipe ERS Sistemas começou com seu trabalho de desenvolvimento de software no ano de 2003, neste periodo ja são varios clientes satisfeitos com as nossas soluções, que são simples e qualquer pessoa é capaz de usar sem problemas, a nossa diferença para os concorrentes e que após a venda oferecemos suport via email, whatsApp, skype e face, e tudo isso por um preço acessivel a todos, agora você pode informatizar seu negocio por um preço que cabe no seu bolço, e ainda o melhor, com um produto de extremamente qualidade que com certeza não vai te deixar na mão
+
+Tambem trabalhos com desenvolvimento de software por encomenda, use o campo de perguntas para maiores informações
